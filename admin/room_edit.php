@@ -36,10 +36,10 @@ $row = mysqli_fetch_array($rs_room);
 //echo ($query_room);//test query
 
 //แสดงข้อมูลที่จะแก้ไข
-echo $room_id;
-echo "<pre>";
-print_r($row);
-echo "</pre>";
+// echo $room_id;
+// echo "<pre>";
+// print_r($row);
+// echo "</pre>";
 
 ?>
 <script src="http://code.jquery.com/jquery-latest.js"></script>

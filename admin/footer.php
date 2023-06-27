@@ -31,9 +31,7 @@
 <script src="../assets/jquery.dataTables.js"></script>
 <script src="../assets/dataTables.bootstrap4.js"></script>
 <script src="../assets/tagsinput.js?v=1"></script>
-
 <script src="../assets/sweetalert2@9.js"></script>
-
 <script src="../assets/adminlte.min.js"></script>
 
 <!-- AdminLTE App -->

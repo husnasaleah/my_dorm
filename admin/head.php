@@ -20,7 +20,6 @@
     <!-- http://fordev22.com/ -->
   <link rel="stylesheet" href="../assets/icheck-bootstrap.min.css">
   <!-- DataTables -->
-
   <link rel="stylesheet" href="../assets/dataTables.bootstrap4.css">
   <!-- overlayScrollbars -->
   <link rel="stylesheet" href="../assets/adminlte.min.css">
